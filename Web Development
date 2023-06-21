@@ -1,7 +1,30 @@
-Project 1 - Web Development
-Description: A modern and responsive website built using HTML, CSS, and JavaScript.
-Technologies: HTML, CSS, JavaScript
-Features:
-Responsive design with media queries for different screen sizes.
-Interactive elements and smooth transitions.
-Integration of third-party libraries or frameworks
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Awesome Project</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Awesome Project</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>About Us</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lobortis sem eget velit consectetur, a consequat ipsum tempus. Integer pulvinar iaculis odio vitae ultrices. Curabitur malesuada enim eu tincidunt malesuada.</p>
+    </section>
+
+    <footer>
+        &copy; 2023 Awesome Project. All rights reserved.
+    </footer>
+</body>
+</html>
